@@ -1,1 +1,1 @@
-# PRODIGY_WD_02
+# Mall_Customer_Segmentation_Data
